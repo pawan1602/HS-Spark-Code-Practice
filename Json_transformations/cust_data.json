@@ -1,0 +1,28 @@
+[
+  {
+    "order_id": "O1",
+    "customer_id": "C1",
+    "order_date": "2025-01-01",
+    "items": [
+      {"product_id": "P1", "category": "Electronics", "price": 100, "quantity": 2},
+      {"product_id": "P2", "category": "Books", "price": 50, "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "O2",
+    "customer_id": "C1",
+    "order_date": "2025-01-03",
+    "items": [
+      {"product_id": "P3", "category": "Electronics", "price": 200, "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "O3",
+    "customer_id": "C2",
+    "order_date": "2025-01-02",
+    "items": [
+      {"product_id": "P4", "category": "Clothing", "price": 80, "quantity": 2},
+      {"product_id": "P5", "category": "Clothing", "price": 120, "quantity": 1}
+    ]
+  }
+]
